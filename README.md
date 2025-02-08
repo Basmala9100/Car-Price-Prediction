@@ -41,7 +41,7 @@ Through exploratory data analysis (EDA), feature engineering, and machine learni
 - **Machine Learning Models**:  
   ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue)
   ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat)
-  ![Decision Tree](https://img.shields.io/badge/Logistic_Regression-007D9C?style=flat&logo=decision-tree&logoColor=white)
+  ![Decision Tree](https://img.shields.io/badge/Decision_Tree-228B22?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
